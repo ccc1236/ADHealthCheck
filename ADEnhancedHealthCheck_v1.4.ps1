@@ -24,7 +24,7 @@ Results are formatted into a visually enhanced HTML report for easy review and d
 1.4
 
 .AUTHOR
-Hakeem Sese
+HS
 
 .LASTUPDATED
 2025-06-25
